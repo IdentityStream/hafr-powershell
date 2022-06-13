@@ -112,7 +112,7 @@ PrivateData = @{
         ProjectUri = 'https://github.com/IdentityStream/hafr-powershell'
 
         # A URL to an icon representing this module.
-        IconUri = 'https://github.com/IdentityStream/hafr-powershell/logo.png'
+        IconUri = 'https://raw.githubusercontent.com/IdentityStream/hafr-powershell/master/icon.png'
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
